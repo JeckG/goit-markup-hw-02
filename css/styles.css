@@ -1,0 +1,11 @@
+html {font-family: "roboto"; font-size: 16px;}
+.webstudio {text-decoration: none;color: var web rgb(12, 12, 233), studio rgb(5, 5, 5);font-family: "raleway";
+font-style: normal;font-weight: 800;}
+.main-menu {text-decoration: none;}
+.title {text-align:center ;color: white;}
+.hero-section {background-color: #2E2F42;}
+.button {background-color: blue;color: white;}
+.our-team {background-color: #E7E9FC;}
+.name {text-align: center;}
+.position {text-align: center;}
+.footer {background-color: #2E2F42;color: white;}
